@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QeIUjr0Q92lJt5bR5LrgLl5JI39oBfxM4V/trjE6XCHdocpMwQFaYtKW3vL0Od4gvkU7I2uG1kGegiduElY3iQ==",
+  "dgSpecHash": "rThRIETkuXAlpAYXNcYZ9YSc1mjXxoKUrOLK5ROUT++I7w4kSlXa8SeWyTldpg+chPYuhDFgN9NDPU8IH7ShOQ==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/dotnet/Business/Business.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/autofac.extras.dynamicproxy/7.1.0/autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Business.Abstract;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofact.Validation;
 using Core.CrossCuttingConcerns.Validation;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -17,9 +18,10 @@ namespace Business.Concrete
         {
             _productDal = productDal;
         }
+
+        [ValidationAspect(typeof(ProductValidator))]
         public void Add(Products products)
         {
-            ValidationTool.Validate( new ProductValidator(),products);
             _productDal.Add(products);
         }
 
