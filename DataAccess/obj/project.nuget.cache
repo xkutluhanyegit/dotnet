@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sBgvEXMkrAAK89R8+bTqW3fK79iHFgsMIOHFyOto0wpCi7AgR3hPZZ7nxjBw2hBEAY7HPZLDGoQrE5G5IyjtNA==",
+  "dgSpecHash": "ozac9g9ZGKrhOnv7F7NY5TDScJ+bMsWcibjfaVJrWQmmaBz4Mjqd5LNoZOQkFaWqamAIlEC5l3cnEDC2C2BpEw==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/dotnet/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

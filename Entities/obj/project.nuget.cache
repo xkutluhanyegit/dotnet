@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mUPmyZXBMg+UW0paGHU7qlYNXryPExjSWVWid/LUOX2pHTKGFKk87ecj798FC+jkr8vmvkID4vwylilNn7Wpjw==",
+  "dgSpecHash": "Sfh/QSa8mPrl1m5O8LrbOiLnsLen1j4N6VSijFnhZMLauQHogjYxDFXhGNUrV9nRz0Wl7nJpO4tsXKRJS5lMxA==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/dotnet/Entities/Entities.csproj",
   "expectedPackageFiles": [
+    "/Users/kutluhanyegit/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.10/microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.10/microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",

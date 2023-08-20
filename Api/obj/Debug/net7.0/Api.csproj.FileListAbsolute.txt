@@ -81,3 +81,4 @@
 /Users/kutluhanyegit/Desktop/dotnet/Api/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
 /Users/kutluhanyegit/Desktop/dotnet/Api/bin/Debug/net7.0/Castle.Core.dll
 /Users/kutluhanyegit/Desktop/dotnet/Api/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll
+/Users/kutluhanyegit/Desktop/dotnet/Api/bin/Debug/net7.0/FluentValidation.dll

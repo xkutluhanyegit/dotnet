@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MPMdRSAGXehYpP7qHiJaMft1bU9U5iPnyNEZ1WoxuPgt4EHSl6QfFY3I87NumkGX97eeBwxulgeQthhH4kti+g==",
+  "dgSpecHash": "J9SbSbjNV16I69M5ccIth002MMD2Vfz/iWse6NWnezH2mhmFTmERqiWqBRr0e9p7vl3y8zTyJG22Oqq2YhUlUg==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/dotnet/Api/Api.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

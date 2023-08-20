@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Business.Abstract;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using DataAccess.Abstract;
 using Entities.Concrete;
 
@@ -17,6 +19,7 @@ namespace Business.Concrete
         }
         public void Add(Products products)
         {
+            ValidationTool.Validate( new ProductValidator(),products);
             _productDal.Add(products);
         }
 

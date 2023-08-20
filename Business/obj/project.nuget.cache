@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DAv+Y7q+KIVW37+uImr3tHCWvFgCrgDRyPRrDZBgSs9aQFT/af5zCU9XKS9sBkbTD5xd+yHZp8cMZsG1u8MhbA==",
+  "dgSpecHash": "QeIUjr0Q92lJt5bR5LrgLl5JI39oBfxM4V/trjE6XCHdocpMwQFaYtKW3vL0Od4gvkU7I2uG1kGegiduElY3iQ==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/dotnet/Business/Business.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.data.sqlclient/5.0.2/microsoft.data.sqlclient.5.0.2.nupkg.sha512",
